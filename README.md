@@ -1,6 +1,8 @@
 ## Introduction - APP Inventor by MIT
 
-> The purpose of this AI project is to give you a sense of the basics of a Voice User Interface (VUI) and to teach you how to design a simple AI system that can understand the intent of the user in a verbally stated calculation question and respond appropriately. Such a voice-driven AI system can be useful in various contexts such as when designing assistive technologies for the visually disabled and the elderly. For example, a visually impaired user can use the Voice Calculator to do mathematical calculations verbally without having to type in all the details of the calculation. "APP INVENTOR MIT"
+> The purpose of this AI project is to give you a sense of the basics of a Voice User Interface (VUI) and to teach you how to design a simple AI system that can understand the intent of the user in a verbally stated calculation question and respond appropriately. Such a voice-driven AI system can be useful in various contexts such as when designing assistive technologies for the visually disabled and the elderly. For example, a visually impaired user can use the Voice Calculator to do mathematical calculations verbally without having to type in all the details of the calculation.
+
+<strong>"APP INVENTOR MIT"</strong>
 
 ## Functionality
 
